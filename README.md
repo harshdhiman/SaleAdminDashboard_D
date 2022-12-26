@@ -1,6 +1,6 @@
 # Sales Admin Dashboard (MERN)
 
-Live at `https://sales-admin-dashboard.onrender.com/`
+Live at https://sales-admin-dashboard.onrender.com/
 
 This is a simple dashboard for sales admin to track their sales.
 
